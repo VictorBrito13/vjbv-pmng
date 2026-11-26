@@ -1,4 +1,4 @@
-const API = `${location.protocol}//${location.hostname}:8089/people`;
+const API = `https://victorbrito.duckdns.org/pmng-api/people`;
 
 const input = document.getElementById('inputName');
 const btn = document.getElementById('btnSend');
